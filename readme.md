@@ -36,4 +36,4 @@ Os dados do projeto estão organizados nas seguintes tabelas:
 - O projeto permite a visualização dos produtos mais vendidos em cada país.
 - A idade média dos compradores também é analisada para entender o público-alvo da empresa.
 
-Se precisar de mais informações ou quiser contribuir para o projeto, fique à vontade para entrar em contato! 🚀
+
